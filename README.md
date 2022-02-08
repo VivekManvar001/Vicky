@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Vicky<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Backend Developer with 3+ years of experience in Optimizing applications for maximum speed and scalability, Co-operating with other front-end developers and product managers, Solving any problem that challenges..</h3>
+<h4 font-size="20" align="center">Backend Developer with 3+ years of experience in Optimizing applications for maximum speed and scalability, Co-operating with other front-end developers and product managers, Solving any problem that challenges..</h4>
 
 
 - 🌱 I’m currently learning **To be Extroverted**
