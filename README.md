@@ -125,9 +125,6 @@
 <h2 align="center" style="margin: 10px">Github stats:</h2> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
-</div>
-
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&&theme=vision-friendly-dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
