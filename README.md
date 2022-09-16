@@ -120,7 +120,8 @@
 </p>
 
 ---
-My Stats
+<h2>My Stats</h2>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
