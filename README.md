@@ -124,7 +124,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
 Credit: [Vicky](https://github.com/VivekManvar001)
