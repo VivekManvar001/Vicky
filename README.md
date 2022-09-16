@@ -129,14 +129,14 @@
 </div>
 
 <div align="center">
-
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&&theme=vision-friendly-dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&&theme=vision-friendly-dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
 
 </div>
 
