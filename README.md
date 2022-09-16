@@ -122,7 +122,7 @@
 ---
 ### :fire: My Stats :
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=vue-dark)
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
