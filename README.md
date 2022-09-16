@@ -120,11 +120,15 @@
 </p>
 
 ---
-### :fire: My Stats :
+<h2 align="center"><u><b>### :fire: My Stats :</b></u></h2>
+<p align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VivekManvar001&theme=dark&background=000000)](https://git.io/streak-stats)
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VivekManvar001&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
 Credit: [Vicky](https://github.com/VivekManvar001)
