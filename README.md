@@ -122,7 +122,7 @@
 ---
 
 <div align="center">
- <h2 align="center" style="margin: 10px">Github stats:</h2> 
+ <h2 align="center" style="margin: 10px">Github stats</h2> 
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
@@ -139,6 +139,13 @@
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
 
 </div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ------
 Credit: [Vicky](https://github.com/VivekManvar001)
