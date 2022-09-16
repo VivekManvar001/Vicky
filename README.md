@@ -125,6 +125,11 @@
  <h2 align="center" style="margin: 10px">Github stats:</h2> 
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
 
 </div>
