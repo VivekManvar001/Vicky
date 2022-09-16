@@ -122,11 +122,9 @@
 ---
 ### :fire: My Stats :
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5&repo=Vicky)](https://github.com/anuraghazra/github-readme-stats)
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekManvar001&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekManvar001&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=5&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
