@@ -120,7 +120,7 @@
 </p>
 
 ---
-### :fire: My Stats :
+My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VivekManvar001&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
